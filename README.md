@@ -14,8 +14,3 @@
 
 ###
 
-<h2 align="left">Skills</h2>
-
-###
-
-###
