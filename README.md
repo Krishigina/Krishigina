@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">3rd year student at Moscow Polytechnic University, Faculty of Information Technology (direction: Corporate Information Systems)</p>
+<p align="left">4rd year student at Moscow Polytechnic University, Faculty of Information Technology (direction: Corporate Information Systems)</p>
 
 ###
 
