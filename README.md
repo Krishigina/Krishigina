@@ -67,10 +67,6 @@
 
 👉 Подробнее: [AURA — System Analysis & Architecture](https://github.com/Krishigina/Aura)
 
-### 📊 Data & Analytics Projects
-
-Здесь собраны проекты, связанные с SQL, данными, математическим моделированием и аналитикой.
-
 ## 📁 Portfolio
 
 📄 **Резюме и полное портфолио:**
